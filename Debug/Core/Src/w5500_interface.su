@@ -1,0 +1,11 @@
+../Core/Src/w5500_interface.c:23:13:Get_Wiz_NetInfo	24	static
+../Core/Src/w5500_interface.c:29:6:w5500_interface_setSPIHandle	8	static
+../Core/Src/w5500_interface.c:35:6:w5500_interface_HardwareReset	8	static
+../Core/Src/w5500_interface.c:42:6:w5500_interface_WriteBuff	16	static
+../Core/Src/w5500_interface.c:48:6:w5500_interface_ReadBuff	16	static
+../Core/Src/w5500_interface.c:54:6:w5500_interface_WriteByte	16	static
+../Core/Src/w5500_interface.c:60:15:w5500_interface_ReadByte	16	static
+../Core/Src/w5500_interface.c:68:6:w5500_interface_Select	8	static
+../Core/Src/w5500_interface.c:74:6:w5500_interface_DeSelect	8	static
+../Core/Src/w5500_interface.c:81:6:w5500_interface_SetNetInfo	8	static
+../Core/Src/w5500_interface.c:90:6:w5500_interface_Initialze	40	static
